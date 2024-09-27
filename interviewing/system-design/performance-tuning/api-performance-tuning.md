@@ -21,5 +21,5 @@
 
 
 # Sources 
-[API Performance Tuning - Byte Byte Go](https://www.youtube.com/watch?v=zvWKqUiovAM&ab_channel=ByteByteGo
+[API Performance Tuning - Byte Byte Go](https://www.youtube.com/watch?v=zvWKqUiovAM&ab_channel=ByteByteGo)
 [Connection Pooling - Stack Overflow](https://stackoverflow.blog/2020/10/14/improve-database-performance-with-connection-pooling/)
