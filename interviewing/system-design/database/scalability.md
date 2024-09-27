@@ -13,4 +13,4 @@ Sharding is the process of splitting your data into smaller chunks and distribut
     2. **Range-based sharding**: Data is distributed across servers based on a range of values.
 
 # Sources
-[ 7 must-know stragies for scaling your database - Byte Byte Go](https://www.youtube.com/watch?v=_1IKwnbscQU&ab_channel=ByteByteGo)
+[ 7 must-know strategies for scaling your database - Byte Byte Go](https://www.youtube.com/watch?v=_1IKwnbscQU&ab_channel=ByteByteGo)
