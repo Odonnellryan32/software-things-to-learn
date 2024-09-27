@@ -30,3 +30,4 @@ Non-Functional Requirements:
 
 # Sources
 - [System Design Interview - Framework - Byte Byte Go](https://www.youtube.com/watch?v=i7twT3x5yv8&ab_channel=ByteByteGo)
+- [Intro to Architecting Systems for Scale - William Larson](https://lethain.com/introduction-to-architecting-systems-for-scale/)
