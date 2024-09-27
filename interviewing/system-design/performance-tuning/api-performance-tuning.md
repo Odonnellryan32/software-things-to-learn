@@ -15,5 +15,11 @@
 - **Lazy Loading**: Data is loaded into the cache only when it is requested. This pattern reduces the amount of data that is loaded into the cache.
 
 
+## Connection Pooling
+- Reuse connections to reduce the overhead of establishing new connections
+- Limit the number of connections to prevent resource exhaustion.
+
+
 # Sources 
-[API Performance Tuning - Byte Byte Go](https://www.youtube.com/watch?v=zvWKqUiovAM&ab_channel=ByteByteGo)
+[API Performance Tuning - Byte Byte Go](https://www.youtube.com/watch?v=zvWKqUiovAM&ab_channel=ByteByteGo
+[Connection Pooling - Stack Overflow](https://stackoverflow.blog/2020/10/14/improve-database-performance-with-connection-pooling/)
